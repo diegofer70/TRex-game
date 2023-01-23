@@ -1,4 +1,4 @@
-# tRex Game
+<h1 align="center">tRex Game</h3>
    
 <div align="center">
     <h3>Clique <a href="">aqui</a></h3>   
